@@ -11,7 +11,6 @@ Benim adım Mehmet Burak Muştu ve Türkiye'de yaşıyorum.
 <code><a href="https://www.docker.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></a></code>
 <code><a href="https://nodejs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
-<code><a href="https://nodejs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></a></code>
 <code><a href="https://code.visualstudio.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
 
 
