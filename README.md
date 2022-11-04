@@ -4,7 +4,7 @@ Benim adım Mehmet Burak Muştu ve Türkiye'de yaşıyorum.
 
 ![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=brkmustu&show_icons=true)
 
-## 🔭 Tecrübelerim / Yeteneklerim
+## 🔭 Yeteneklerim
 
 <code><a href="https://www.microsoft.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg"></a></code>
