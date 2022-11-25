@@ -20,6 +20,8 @@ Benim adım Mehmet Burak Muştu ve Türkiye'de yaşıyorum.
 
 [![Twitter Badge](https://img.shields.io/badge/mehmetburakmustu-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/brkmustu)
 
+[![Medium Badge](https://img.shields.io/badge/mehmetburakmustu-follow%20on%20medium-black?style=for-the-badge&logo=medium)](https://brkmustu.medium.com)
+
 ## 💬 Aşağıdaki konularla iletişime geçmekten memnuniyet duyarım :)
 
   - Functional Programming
