@@ -24,6 +24,7 @@ Benim adım Mehmet Burak Muştu ve Türkiye'de yaşıyorum.
 
 ## 💬 Aşağıdaki konularla iletişime geçmekten memnuniyet duyarım :)
 
+  - Rust-Lang
   - Functional Programming
   - Software Architectures
   
