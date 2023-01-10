@@ -16,7 +16,7 @@ Benim adım Mehmet Burak Muştu ve Türkiye'de yaşıyorum.
 
 ## 📫 Bana aşağıdaki adreslerden ulaşabilirsiniz:
 
-[![Linkedin Badge](https://img.shields.io/badge/mehmetburakmustu-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://tr.linkedin.com/in/mehmet-burak-0b889491)
+[![Linkedin Badge](https://img.shields.io/badge/mehmetburakmustu-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mehmet-burak-mu%C5%9Ftu-5976a8261/)
 
 [![Twitter Badge](https://img.shields.io/badge/mehmetburakmustu-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/brkmustu)
 
