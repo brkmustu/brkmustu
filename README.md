@@ -1,42 +1,17 @@
 ### Merhabalar, github sayfama hoşgeldiniz.👋
 
-Benim adım Mehmet Burak Muştu ve Türkiye'de yaşıyorum.
+Benim adım Mehmet Burak Muştu ve İstanbul'da yaşıyorum.
 
-![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=brkmustu&show_icons=true)
+Profesyonel iş hayatımda ağırlıklı olarak ![CSharp](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c%20sharp&logoColor=fff) ve ![Javascript](https://img.shields.io/badge/-javascript-e5cf0d?logo=javascript&logoColor=white) ile uğraşıyorum. Burada paylaştığım [CryptApp](https://github.com/brkmustu/cryptapp) ile hem profesyonel hayatımda deneyimlediğim teknolojileri hemde bunun dışındaki çalışmalarımı bir arada toplamaya çalıştım.
 
-## 🔭 Yeteneklerim
+[![Kullanılan Diller](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brkmustu&layout=compact&langs_count=5&hide=html,smarty,javascript)](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brkmustu&layout=compact&langs_count=5&hide=html,smarty,javascript)
 
-<code><a href="https://www.microsoft.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
-<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg"></a></code>
-<code><a href="https://www.docker.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></a></code>
-<code><a href="https://nodejs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></a></code>
-<code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
-<code><a href="https://code.visualstudio.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
+Henüz ağırlık profesyonel hayatımda kullandığım diller olsada aşağıdaki konulara imkan buldukça vakit ayırmaya çalışıyorum.
 
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?&style=flat&logo=rust&logoColor=white)
+![Javascript](https://img.shields.io/badge/-javascript-e5cf0d?logo=javascript&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?&style=flat&logo=dart&logoColor=white)
 
-## 📫 Bana aşağıdaki adreslerden ulaşabilirsiniz:
+Son zamanlarda özellikle imkan buldukça tarihi, anlatılmayan yönleriyle anlatan kitaplar alıp okuyorum. Özellikle buradan son 500 yılın en güzel özeti olarak tarih duayenlerince takdir gören, Kazım Yurdakul'un **"Asil Kan"** kitabını tavsiye ediyorum. Bir sonraki hedefim Baran Aydın'ın **"Atatürk'ün Tanrı'sı"** adlı kitabı.
 
-[![Linkedin Badge](https://img.shields.io/badge/mehmetburakmustu-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mehmet-burak-mu%C5%9Ftu-5976a8261/)
-
-[![Twitter Badge](https://img.shields.io/badge/mehmetburakmustu-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/brkmustu)
-
-[![Medium Badge](https://img.shields.io/badge/mehmetburakmustu-follow%20on%20medium-black?style=for-the-badge&logo=medium)](https://brkmustu.medium.com)
-
-## 💬 Aşağıdaki konularla iletişime geçmekten memnuniyet duyarım :)
-
-  - Rust-Lang
-  - Functional Programming
-  - Software Architectures
-  
-## 💬 Aşağıdaki konular hakkında bazı görüşlere deneyimlere sahibim
-  - Object Oriented Programing
-  - Design Patterns
-  - CQRS & TDD
-  - Clean Architecture
-  - .NET Core
-  - Nodejs
-  - Full Stack Application Development
-  - Angular
-  - Vuejs
-  
-  ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https://api.countapi.xyz/hit/brkmustu/readme)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehmetburakmustu/)](https://www.linkedin.com/in/mehmetburakmustu/) [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@brkmustu)](https://medium.com/@brkmustu) [![GitHub Follow Badge](https://img.shields.io/github/followers/brkmustu?label=follow&style=social)](https://github.com/brkmustu)
