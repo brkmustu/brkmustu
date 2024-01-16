@@ -9,8 +9,10 @@ Profesyonel iş hayatımda ağırlıklı olarak ![CSharp](https://img.shields.io
 Henüz ağırlık profesyonel hayatımda kullandığım diller olsada aşağıdaki konulara imkan buldukça vakit ayırmaya çalışıyorum.
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?&style=flat&logo=rust&logoColor=white)
-![Javascript](https://img.shields.io/badge/-javascript-e5cf0d?logo=javascript&logoColor=white)
+![Node](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?&style=flat&logo=dart&logoColor=white)
+
+Evde **"Storm Breaker"** adını verdiğim bir **"Pardus"** ile geliştirmeler yapıyorum. Geliştirme ortamında **"Docker"'ın** sağladığı esneklikle birçok sistem üzerinde rahat bir şekilde denemeler yapabiliyorum. Geliştirme ordamı olarak **"VS Code"** kullanıyorum.
 
 Son zamanlarda özellikle imkan buldukça tarihi, anlatılmayan yönleriyle anlatan kitaplar alıp okuyorum. Özellikle buradan son 500 yılın en güzel özeti olarak tarih duayenlerince takdir gören, Kazım Yurdakul'un **"Asil Kan"** kitabını tavsiye ediyorum. Bir sonraki hedefim Baran Aydın'ın **"Atatürk'ün Tanrı'sı"** adlı kitabı.
 
