@@ -1,6 +1,6 @@
 ### Merhabalar, github sayfama hoşgeldiniz.👋
 
-Benim adım Mehmet Burak Muştu, İstanbul'da yaşıyorum ve 2015 yılından itibaren profesyonel olarak yazılım alanında çalışıyorum.
+Benim adım Mehmet Burak Muştu, İstanbul'da yaşıyorum ve 2015 yılından beri profesyonel olarak yazılım alanında çalışıyorum.
 
 İş hayatımda ağırlıklı olarak ![CSharp](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c%20sharp&logoColor=fff) ve ![Javascript](https://img.shields.io/badge/-javascript-e5cf0d?logo=javascript&logoColor=white) ile uğraşıyorum. Burada paylaştığım [CryptApp](https://github.com/brkmustu/cryptapp) ile hem profesyonel hayatımda deneyimlediğim teknolojileri hemde bunun dışındaki çalışmalarımı bir arada toplamaya çalıştım.
 
