@@ -18,4 +18,4 @@ Son zamanlarda özellikle imkan buldukça tarihi, anlatılmayan yönleriyle anla
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mehmetburakmustu/)](https://www.linkedin.com/in/mehmetburakmustu/) [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@brkmustu)](https://medium.com/@brkmustu) [![GitHub Follow Badge](https://img.shields.io/github/followers/brkmustu?label=follow&style=social)](https://github.com/brkmustu)
 
-![yaz](https://img.shields.io/badge/Yaz%20Dostum-d7023b?link=https://yazdostum.medium.com/) ile imkan buldukça tarih, teknoloji ve tasavvuf üzerine bazı paylaşımlarda bulunuyorum.
+[![yaz](https://img.shields.io/badge/Yaz%20Dostum-d7023b)](https://yazdostum.medium.com/) ile imkan buldukça tarih, teknoloji ve tasavvuf üzerine bazı paylaşımlarda bulunuyorum.
