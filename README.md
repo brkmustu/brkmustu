@@ -6,7 +6,7 @@ Benim adım Mehmet Burak Muştu, İstanbul'da yaşıyorum ve 2015 yılından ber
 
 Henüz ağırlık profesyonel hayatımda kullandığım diller olsada aşağıdaki konulara imkan buldukça vakit ayırmaya çalışıyorum.
 
-[![Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=brkmustu&layout=compact&hide=html,smarty,powershell,dockerfile,shell,cpp,cmake&langs_count=5)](https://github-readme-stats.vercel.app/api/top-langs/?username=brkmustu&layout=compact&hide=html,smarty,powershell,dockerfile,shell,cpp,cmake&langs_count=5)
+![Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=brkmustu&layout=compact&hide=html,smarty,powershell,dockerfile,shell,cpp,cmake&langs_count=5)
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?&style=flat&logo=rust&logoColor=white)
 ![Node](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)
