@@ -4,7 +4,8 @@ Benim adım Mehmet Burak Muştu, İstanbul'da yaşıyorum ve 2015 yılından ber
 
 İş hayatımda ağırlıklı olarak ![CSharp](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c%20sharp&logoColor=fff) ve ![Javascript](https://img.shields.io/badge/-javascript-e5cf0d?logo=javascript&logoColor=white) ile uğraşıyorum. Burada paylaştığım [CryptApp](https://github.com/brkmustu/cryptapp) (yeni versiyonunu rust ile hazırladığım [crypt-app-rs](https://github.com/brkmustu/crypt-app-rs)) ile hem profesyonel hayatımda deneyimlediğim teknolojileri hemde bunun dışındaki çalışmalarımı bir arada toplamaya çalıştım.
 
-[![Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=brkmustu&layout=compact&hide=html,smarty,powershell,dockerfile,shell,cpp,cmake&langs_count=5)](https://github-readme-stats.vercel.app/api/top-langs/?username=brkmustu&layout=compact&hide=html,smarty,powershell,dockerfile,shell,cpp,cmake&langs_count=5)
+[![Kullanılan Diller](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brkmustu&layout=compact&langs_count=5&hide=html,smarty,javascript)](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brkmustu&layout=compact&langs_count=5&hide=html,smarty,javascript)
+
 
 Henüz ağırlık profesyonel hayatımda kullandığım diller olsada aşağıdaki konulara imkan buldukça vakit ayırmaya çalışıyorum.
 
