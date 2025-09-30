@@ -22,7 +22,7 @@ Geliştirme ortamı olarak çeşitli araç setlerinde çalışma imkanım oldu. 
 - Ve son zamanlardaki gözde kodlama aracım: **"Claude Code"**.
 
 Yapay zekayı sadece geliştirmek maksatlı kullanmıyorum.
-Aynı zamanda yerel bilgisayarımın izin verdiği büyüklükteki açık kaynaklı büyük dil modeller (LLM'ler) ile çalışmalar yapıyorum. Bu çalışmalar konularından bazıları;
+Aynı zamanda yerel bilgisayarımın izin verdiği büyüklükteki açık kaynaklı büyük dil modeller (LLM'ler) ile çalışmalar yapıyorum. Bu çalışma konularından bazıları;
 
 - Prompt Engineering (ileri seviye),
 - RAG development,
