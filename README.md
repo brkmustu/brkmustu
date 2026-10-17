@@ -4,6 +4,8 @@ Benim adım Mehmet Burak Muştu, İstanbul'da yaşıyorum ve 2015 yılından ber
 
 İş hayatımda ağırlıklı olarak ![CSharp](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c%20sharp&logoColor=fff) ve ![Javascript](https://img.shields.io/badge/-javascript-e5cf0d?logo=javascript&logoColor=white) ile uğraşıyorum. [crypt-app-rs](https://github.com/brkmustu/crypt-app-rs) ile hem profesyonel hayatımda deneyimlediğim teknolojileri hemde bunun dışındaki çalışmalarımı bir arada toplamaya çalıştım.
 
+![GitHub İstatistiklerim](./stats-card.svg)
+
 Henüz ağırlık profesyonel hayatımda kullandığım diller olsada aşağıdaki konulara imkan buldukça vakit ayırmaya çalışıyorum.
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?&style=flat&logo=rust&logoColor=white)
