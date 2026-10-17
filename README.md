@@ -4,28 +4,26 @@ Benim adım Mehmet Burak Muştu, İstanbul'da yaşıyorum ve 2015 yılından ber
 
 İş hayatımda ağırlıklı olarak ![CSharp](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c%20sharp&logoColor=fff) ve ![Javascript](https://img.shields.io/badge/-javascript-e5cf0d?logo=javascript&logoColor=white) ile uğraşıyorum. [crypt-app-rs](https://github.com/brkmustu/crypt-app-rs) ile hem profesyonel hayatımda deneyimlediğim teknolojileri hemde bunun dışındaki çalışmalarımı bir arada toplamaya çalıştım.
 
-[![Kullanılan Diller](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brkmustu&layout=compact&langs_count=4&hide=html,smarty,powershell,dockerfile,shell,cpp,cmake)](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brkmustu&layout=compact&langs_count=4&hide=html,smarty,powershell,dockerfile,shell,cpp,cmake)
-
-
 Henüz ağırlık profesyonel hayatımda kullandığım diller olsada aşağıdaki konulara imkan buldukça vakit ayırmaya çalışıyorum.
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?&style=flat&logo=rust&logoColor=white)
 ![Node](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?&style=flat&logo=dart&logoColor=white)
 
-Kişisel bilgisayarımda **linux mint** kullanıyorum. **"Docker"'ın** sağladığı esneklikle, geliştirme için, veritabanı ya da kuyruk mekanizması gibi sistemler üzerinde rahat bir şekilde denemeler yapabiliyorum.
+Kişisel bilgisayarımda **CachoyOS** kullanıyorum (daha önce kullandığım bazı linux dağıtımları: linux mint, arch linux, pardus, ubuntu). **"Docker"'ın** sağladığı esneklikle, geliştirme için, veritabanı ya da kuyruk mekanizması gibi sistemler üzerinde rahat bir şekilde denemeler yapabiliyorum.
 Geliştirme ortamı olarak çeşitli araç setlerinde çalışma imkanım oldu. Bunlar;
 
+- **"Claude Code"**,
+- **"OpenCode"**,
 - **"VS Code"**,
 - **"Zed"**,
-- **"Cursor"**,
-- Ve son zamanlardaki gözde kodlama aracım: **"Claude Code"**.
+- Ve son zamanlardaki gözde kodlama aracım: **Antigravity IDE**.
 
 Yapay zekayı sadece geliştirmek maksatlı kullanmıyorum.
 Aynı zamanda yerel bilgisayarımın izin verdiği büyüklükteki açık kaynaklı büyük dil modeller (LLM'ler) ile çalışmalar yapıyorum. Bu çalışma konularından bazıları;
 
 - Prompt Engineering (ileri seviye),
-- RAG development,
+- RAG development, çeşitli yöntemlerle yerelde çalıştırılabilen modellerle daha yüksek kaliteli bir çıktı almaya çalışıyorum,
 - Fine tune,
 
 imkan buldukça tarihi, anlatılmayan yönleriyle anlatan kitaplar alıp okuyorum. Bunlardan bazıları;
